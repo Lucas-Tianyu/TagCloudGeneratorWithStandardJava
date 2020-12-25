@@ -23,7 +23,7 @@ import java.util.Scanner;
  *         name of the input file in a heading followed by a tag cloud of the N
  *         words with the highest count in the input.
  *
- * @author Tianyu Wu, Yifan Yu, Zixi Wang
+ * @author Lucas Wu
  *
  * @feature Based on Java component
  * @feature common words (such as, for example, "a", "the", "and", etc.) and
